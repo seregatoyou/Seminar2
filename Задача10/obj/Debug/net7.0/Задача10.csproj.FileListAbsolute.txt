@@ -1,0 +1,14 @@
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\bin\Debug\net7.0\Задача10.exe
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\bin\Debug\net7.0\Задача10.deps.json
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\bin\Debug\net7.0\Задача10.runtimeconfig.json
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\bin\Debug\net7.0\Задача10.dll
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\bin\Debug\net7.0\Задача10.pdb
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.AssemblyInfoInputs.cache
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.AssemblyInfo.cs
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.dll
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\obj\Debug\net7.0\refint\Задача10.dll
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.pdb
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\obj\Debug\net7.0\Задача10.genruntimeconfig.cache
+C:\Users\IT\Desktop\Семинар2ДЗ\Задача10\obj\Debug\net7.0\ref\Задача10.dll
